@@ -1,6 +1,6 @@
 # Spacez
 
-A new Flutter project.
+By Uday Kiran.
 
 ## Screenshot
 
